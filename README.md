@@ -4,6 +4,8 @@
 
 </div>
 
+
+
 ---
 
 <h3 align="center">
@@ -101,9 +103,9 @@ Building intelligence on mathematical foundations
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yrajnishds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="190"/>
 
-<img src="https://streak-stats.demolab.com?user=yrajnishds&theme=tokyonight&hide_border=true&background=0f172a" height="190"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yrajnishds&theme=tokyonight&hide_border=true&background=0f172a" height="190"/>
 
-<br><br>
+
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yrajnishds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170"/>
 
@@ -148,6 +150,15 @@ Building intelligence on mathematical foundations
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=140&section=footer"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height=100/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=160&section=header&text=Thanks%20for%20Visting&fontSize=52&fontColor=ffffff&fontAlignY=38"/>
+
 
 </div>

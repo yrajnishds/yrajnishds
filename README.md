@@ -1,6 +1,6 @@
-<div align="center" style="pointer-events: none;">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Rajnish%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Research-Driven%20AI%20Student%20%7C%20Mathematical%20Foundations%20of%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn"/>
+<a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Rajnish%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Research-Driven%20AI%20Student%20%7C%20Mathematical%20Foundations%20of%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn"/></a>
 
 </div>
 
@@ -65,31 +65,31 @@ Building intelligence on mathematical foundations
 
 # 🛠 Core Competencies
 
-<div align="center" style="pointer-events: none;">
+<div align="center">
 
 ### Programming
-<img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/></a>
 
 <br><br>
 
 ### Mathematical Foundations
-<img src="https://img.shields.io/badge/Linear_Algebra-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Probability-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-0EA5E9?style=for-the-badge"/>
+<a><img src="https://img.shields.io/badge/Linear_Algebra-F59E0B?style=for-the-badge"/></a>
+<a><img src="https://img.shields.io/badge/Probability-DC2626?style=for-the-badge"/></a>
+<a><img src="https://img.shields.io/badge/Statistics-0EA5E9?style=for-the-badge"/></a>
 
 <br><br>
 
 ### Computer Science
-<img src="https://img.shields.io/badge/Data_Structures-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-059669?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/Data_Structures-7C3AED?style=for-the-badge"/></a>
+<a><img src="https://img.shields.io/badge/Algorithms-9333EA?style=for-the-badge"/></a>
+<a><img src="https://img.shields.io/badge/Machine_Learning-059669?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 
 <br><br>
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0284C7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<a><img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/VS_Code-0284C7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 
 </div>
 
@@ -97,15 +97,15 @@ Building intelligence on mathematical foundations
 
 # 📊 GitHub Analytics
 
-<div align="center" style="pointer-events: none;">
+<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yrajnishds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="190"/>
+<a><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yrajnishds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="190"/></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yrajnishds&theme=tokyonight&hide_border=true&background=0f172a" height="190"/>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=yrajnishds&theme=tokyonight&hide_border=true&background=0f172a" height="190"/></a>
 
 <br><br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yrajnishds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170"/>
+<a><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yrajnishds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170"/></a>
 
 </div>
 
@@ -146,8 +146,8 @@ Building intelligence on mathematical foundations
 
 ---
 
-<div align="center" style="pointer-events: none;">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=140&section=footer"/>
+<a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=140&section=footer"/></a>
 
 </div>

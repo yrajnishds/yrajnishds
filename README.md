@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="pointer-events: none;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Rajnish%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Research-Driven%20AI%20Student%20%7C%20Mathematical%20Foundations%20of%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn"/>
 
@@ -65,7 +65,7 @@ Building intelligence on mathematical foundations
 
 # 🛠 Core Competencies
 
-<div align="center">
+<div align="center" style="pointer-events: none;">
 
 ### Programming
 <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -97,7 +97,7 @@ Building intelligence on mathematical foundations
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="pointer-events: none;">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yrajnishds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="190"/>
 
@@ -146,7 +146,7 @@ Building intelligence on mathematical foundations
 
 ---
 
-<div align="center">
+<div align="center" style="pointer-events: none;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=140&section=footer"/>
 

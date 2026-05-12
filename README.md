@@ -65,6 +65,14 @@ Building intelligence on mathematical foundations
 
 ---
 
+## 🏆 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| [Scientific Computing with Python](https://freecodecamp.org/certification/yrajnishds/scientific-computing-with-python-v7) | freeCodeCamp | May 2026 |
+
+--
+
 # 🛠 Core Competencies
 
 <div align="center">

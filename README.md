@@ -58,20 +58,20 @@ Building intelligence on mathematical foundations
 - Algorithmic Trading Systems  
 
 🎯 Long-Term Vision:  
-**GATE DA 2028 → MS/PhD in Artificial Intelligence**
+**MS/PhD in Artificial Intelligence**
 
 🔗 Academic Profile:  
 👉 https://discourse.onlinedegree.iitm.ac.in/u/yrajnish0715/
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Badges
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| [Scientific Computing with Python](https://freecodecamp.org/certification/yrajnishds/scientific-computing-with-python-v7) | freeCodeCamp | May 2026 |
+[![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/go/GCGJz4UP)
 
---
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Scientific_Computing_Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/yrajnishds/scientific-computing-with-python-v7)
+
+---
 
 # 🛠 Core Competencies
 

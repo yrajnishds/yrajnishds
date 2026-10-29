@@ -8,6 +8,12 @@ Data Science student at the Indian Institute of Technology Madras (IIT Madras). 
 - Interested in data science, machine learning, software engineering, Linux, and open-source software
 - Learning by experimenting, reading documentation, and building practical projects
 
+## GitHub contributions
+
+[![Rajnish's GitHub contribution graph](https://ghchart.rshah.org/40916c/yrajnishds)](https://github.com/yrajnishds)
+
+See my [repositories](https://github.com/yrajnishds?tab=repositories) and [full contribution activity](https://github.com/yrajnishds?tab=overview).
+
 ## Featured project
 
 ### Trekking Management System
